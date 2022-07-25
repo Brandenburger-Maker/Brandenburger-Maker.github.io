@@ -15,7 +15,7 @@ This website is licensed under a [Creative Commons Attribution 4.0 International
 
 Beitragen gerne über Pull-Requests.
 Du kannst das Team
-@Brandenburger-Maker/website
+[@Brandenburger-Maker/website](https://github.com/orgs/Brandenburger-Maker/teams/website)
 benachrichtigen und beitreten, um an der
 Webseite zu arbeiten.
 
