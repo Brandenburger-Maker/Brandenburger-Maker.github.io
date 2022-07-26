@@ -3,7 +3,7 @@
 Die Seite basiert zu großen Teilen auf der Website des Projektes [edulabs.de](https://edulabs.de/), die CC-by lizenziert ist.
 
 
-# License
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 
@@ -11,7 +11,15 @@ Sofern nicht anders angegeben, stehen die Inhalte dieser Seite unter der <a href
 
 This website is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please read the LICENSE files for more details.
 
-# Entwicklung
+## Beitragen
+
+Beitragen gerne über Pull-Requests.
+Du kannst das Team
+[@Brandenburger-Maker/website](https://github.com/orgs/Brandenburger-Maker/teams/website)
+benachrichtigen und beitreten, um an der
+Webseite zu arbeiten.
+
+## Entwicklung
 
 1. Git installieren
 2. Repository Klonen
