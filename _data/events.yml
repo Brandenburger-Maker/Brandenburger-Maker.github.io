@@ -50,7 +50,7 @@
   url: "/los/"
   date: 03.-04.06.
   city: Forst
-  featured: true
+  featured: false
   id: "0011"
 - name: "Tüftel-Spezial: 3D-Drucker bauen"
   url: "https://machbar-potsdam.de/tueftel-spezial-3d-drucker-bauen-in-guben/"
