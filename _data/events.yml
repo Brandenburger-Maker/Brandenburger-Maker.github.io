@@ -8,13 +8,13 @@
   url: "https://skz-telux.de/programm"
   date: 30.09.2022
   city: Hafenstube Weißwasser/Oberlausitz
-  featured: true
+  featured: false
   id: "0018"
 - name: "Festival Stuss am Fluss"
   url: "https://stussamfluss.de"
   date: 11. - 13.08.2022
   city: Strombad Cottbus
-  featured: true
+  featured: false
   id: "0017"
 - name: "Lausitz-Tour: Guben"
   url: "/los/"
